@@ -42,47 +42,18 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## SaaS/Hosted Platforms
 
-
-
-- **[LeoLabs](https://leolabs.space/)**  
-
-  Leading commercial SSA provider with a global radar network focused on low-Earth orbit mapping, tracking, and space traffic management services.
-
-
-
-- **[Slingshot Aerospace](https://www.slingshotaerospace.com/)**  
-
-  AI-powered platform that fuses real-time and historical satellite data for orbital risk, anomaly detection, and space domain awareness, backed by an optical sensor network.
-
-
-
-- **[COMSPOC](https://comspoc.com/)**  
-
-  Commercial space operations center offering high-fidelity orbit determination, conjunction assessment, and SSA products for operators and governments.
-
-
-
-- **[ExoAnalytic Solutions](https://exoanalytic.com/)**  
-
-  Optical SSA and space domain awareness provider specializing in GEO and other regimes with telescope networks and analytics.
-
-
-
-- **[Kayhan Space](https://kayhan.space/)**  
-
-  Collision avoidance and space traffic coordination platform that helps operators manage conjunctions and plan safe maneuvers.
-
-
-
-- **[Privateer Space, Scout Space, Share My Space, Look Up Space, Okapi:Orbits](https://www.privateer.space/)**  
-
-  Emerging and specialized platforms focused on debris tracking, open data, European SSA services, and orbital analytics.
-
-
-
-- **[Other SSA & STM providers](https://leolabs.space/)**  
-
-  Additional commercial and government-supported services for catalog maintenance, re-entry prediction, and space traffic management.
+| Platform | Description | Starting Price | Free Tier / Trial Limit |
+| :--- | :--- | :--- | :--- |
+| **[LeoLabs](https://leolabs.space/)** | Leading commercial SSA provider with a global radar network focused on low-Earth orbit mapping, tracking, and space traffic management services. | $2,500 / month per satellite (LeoTrack standard tracking tier) | Free LEO Visualizer platform (interactive 3D map for viewing ~20,000+ LEO catalog objects; 0 API calls or automated alerts) |
+| **[Slingshot Aerospace](https://www.slingshotaerospace.com/)** | AI-powered platform that fuses real-time and historical satellite data for orbital risk, anomaly detection, and space domain awareness (Slingshot Beacon). | $1,200 / month per satellite (Slingshot Beacon Premium tier) | Free-forever basic tier (provides essential collision avoidance screening, CDM parsing, and inter-operator chat for unlimited fleet satellites) |
+| **[COMSPOC](https://comspoc.com/)** | Commercial space operations center offering high-fidelity orbit determination, conjunction assessment, and SSA products for operators and governments. | $500 / month (ARGUS ephemeris & SSASuite entry tier) | Free-forever Spacebook account (3D orbital visualizer & ephemeris data viewer; restricted to 5 saved views & manual query rate limits) |
+| **[ExoAnalytic Solutions](https://exoanalytic.com/)** | Optical SSA and space domain awareness provider specializing in GEO and other regimes with telescope networks and analytics. | $1,000 / month per satellite (ExoTrack Orbits Service tier) | 14-day free trial (access to optical telescope tracking data and orbital updates for up to 2 verified satellites) |
+| **[Kayhan Space](https://kayhan.space/)** | Collision avoidance and space traffic coordination platform (Satcat & Pathfinder) that helps operators manage conjunctions and plan safe maneuvers. | $1,900 / month (Pro tier for up to 3 satellites) | Free-forever plan (Kayhan/Pathfinder Essentials: baseline satellite tracking, automated CDM parsing, and conjunction alerts for unlimited satellites) |
+| **[Privateer Space](https://www.privateer.space/)** | Emerging platform focused on debris tracking, open data, and orbital analytics via its 3D Wayfinder visualizer and Wayfinder API. | $100 / month base fee + $0.001 per API request (AWS Marketplace Wayfinder API) | Free-forever web app (Wayfinder interactive 3D orbital debris visualizer; 0 external API calls included) |
+| **[Scout Space](https://scout.space/)** | In-space observation and Space Domain Awareness (SDA) provider utilizing spacecraft optical sensors and the Overwatch analytics suite. | $2,000 / month per satellite (Overwatch SDA telemetry data feed tier) | 30-day free trial (access to simulated in-space optical tracking telemetry, sample CDM alerts, and 3D proximity visualization for 1 test asset) |
+| **[Share My Space (Aldoria)](https://www.sharemyspace.com/)** | European SSA provider deploying optical sensor networks and real-time orbital intelligence for space debris tracking and conjunction assessment. | €1,500 / month (~$1,620/mo) per satellite (LEO conjunction assessment & maneuver alert service) | Free academic & sustainability plan (free observation datasets for non-commercial researchers, university students, and debris removal missions upon request) |
+| **[Look Up Space](https://www.lookupspace.com/)** | European space situational awareness provider utilizing its SORASYS radar network and SYNAPSE digital platform for real-time risk assessment. | €2,000 / month (~$2,160/mo) per monitored satellite (SYNAPSE real-time collision risk & analytics suite) | 14-day free trial (access to SYNAPSE dashboard, real-time catalog screening, and conjunction alerts for 1 verified satellite asset) |
+| **[Okapi:Orbits](https://okapiorbits.space/)** | Space traffic management and SSA platform (OKAPI:Aether & OKAPI:Astrolabe) offering automated collision risk prediction and maneuver optimization. | €850 / month (~$920/mo) per satellite (OKAPI:Aether collision avoidance & risk prediction subscription) | 30-day free trial (access to OKAPI:Aether platform, automated CDM processing, and maneuver calculation tools for up to 2 test satellites) |
 
 
 
